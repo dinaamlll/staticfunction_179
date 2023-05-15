@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrstatic2", "mbrstatic2\mb
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "konstruktor", "konstruktor\konstruktor.vcxproj", "{470D4480-65C6-41EC-B36D-4ED5ED511BDE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "destruktor", "destruktor\destruktor.vcxproj", "{258268BF-DAF0-40DB-9959-7F145D208F2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{470D4480-65C6-41EC-B36D-4ED5ED511BDE}.Release|x64.Build.0 = Release|x64
 		{470D4480-65C6-41EC-B36D-4ED5ED511BDE}.Release|x86.ActiveCfg = Release|Win32
 		{470D4480-65C6-41EC-B36D-4ED5ED511BDE}.Release|x86.Build.0 = Release|Win32
+		{258268BF-DAF0-40DB-9959-7F145D208F2A}.Debug|x64.ActiveCfg = Debug|x64
+		{258268BF-DAF0-40DB-9959-7F145D208F2A}.Debug|x64.Build.0 = Debug|x64
+		{258268BF-DAF0-40DB-9959-7F145D208F2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{258268BF-DAF0-40DB-9959-7F145D208F2A}.Debug|x86.Build.0 = Debug|Win32
+		{258268BF-DAF0-40DB-9959-7F145D208F2A}.Release|x64.ActiveCfg = Release|x64
+		{258268BF-DAF0-40DB-9959-7F145D208F2A}.Release|x64.Build.0 = Release|x64
+		{258268BF-DAF0-40DB-9959-7F145D208F2A}.Release|x86.ActiveCfg = Release|Win32
+		{258268BF-DAF0-40DB-9959-7F145D208F2A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
